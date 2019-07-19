@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 console.log("Hello World");
 
 var adding_func = function(a,b){return a+b};
