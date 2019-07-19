@@ -1,2 +1,2 @@
-console.log("Hello World");
+console.log("I caused a merging conflict!");
 console.log(5+10);
