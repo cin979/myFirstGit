@@ -1,2 +1,5 @@
 console.log("Hello World");
-console.log(5+10);
+
+var adding_func = function(a,b){return a+b};
+
+console.log(adding_func(5,10));
